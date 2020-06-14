@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#1D7709</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorBackground">#104305</color>
+    <color name="colorbtngirisyap">#D82121</color>
+    <color name="colorbtntextcolor">#F6F6F6</color>
+    <color name="colorbtnyenikayit">#2D0180</color>
+    <color name="colorviewpager">#F6F6F6</color>
+    <color name="tabsindicator">#A50C40</color>
+    <color name="cardbackground">#014E03</color>
+    <color name="cardtextcolor">#F6F6F6</color>
+    <color name="btnarkadasekle">#1CAA2D</color>
+    <color name="btntakipediliyor">#B53765</color>
+
+    <color name="btnkabulet">#0DD825</color>
+    <color name="btnreddet">#E40909</color>
+    <color name="txtmessagetext">#EDA7A7</color>
+
+    <color name="cardbackgroundchat">#49AE55</color>
+</resources>
